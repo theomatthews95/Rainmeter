@@ -1,0 +1,3 @@
+[Variables]
+
+LogoWH=150
